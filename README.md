@@ -1,4 +1,4 @@
-Track the number of covid cases as of current date made from laravel and guzzle as http client.
+Track the number of covid cases as of current date made from <a href="https://laravel.com/">laravel</a> and <a href="http://docs.guzzlephp.org/en/stable/">guzzle</a> as http client.
 
 after cloning run 
 
